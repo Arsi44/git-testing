@@ -1,5 +1,5 @@
-def plus(a, b):
-    return a + b
+def plus(a, c):
+    return a + c
 
 
 if __name__ == '__main__':
